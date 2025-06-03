@@ -457,7 +457,7 @@ input[type=file] {
   padding-bottom: 39px;
   width: 456.832458px;
   height: 456.832458px;
-  background-image: url("../../images/колесо.png");
+  background-image: url("../images/колесо.png");
   background-size: cover;
   position: relative;
 }
@@ -570,7 +570,7 @@ input[type=file] {
   position: absolute;
   top: 107px;
   left: 86px;
-  background-image: url("../../images/колесо (1).png");
+  background-image: url("../images/колесо (1).png");
   background-size: cover;
 }
 @media (max-width: 850px) {
@@ -621,7 +621,7 @@ input[type=file] {
   align-items: center;
   top: 90px;
   left: 69px;
-  background-image: url(../../images/внутрений.png);
+  background-image: url("../images/внутрений.png");
   background-size: cover;
   position: absolute;
 }
@@ -674,7 +674,7 @@ input[type=file] {
 }
 
 .internal-active {
-  background-image: url("../../images/active wheel.png") !important;
+  background-image: url("../images/active wheel.png") !important;
   width: 329.832458px;
   height: 323.832458px;
   top: 86px;

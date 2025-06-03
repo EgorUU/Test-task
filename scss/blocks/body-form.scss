@@ -1,5 +1,5 @@
 body {
-    background-image: url('../../images/form bg.png') !important;
+    background-image: url('../images/form bg.png') !important;
     backdrop-filter: brightness(0.6);
     background-size: cover;
     @media (min-width: 930px) {
@@ -10,7 +10,7 @@ body {
     }
     @media (max-width: 850px) {
         padding-bottom: 449px !important;
-        background-image: url('../../images/form bg adaprive.png') !important;
+        background-image: url('../images/form bg adaprive.png') !important;
         // background-size: 338% !important;
     }
     @media (max-width: 600px) {
